@@ -2,8 +2,8 @@
 ### Software Engineer & AI Developer | Open Source Contributor
 
 <p align="left">
-  <a href="[https://linkedin.com](https://www.linkedin.com/in/abdul-azees-1111-s/)"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="[https://leetcode.com](https://leetcode.com/u/abdulazees1111s/)"><img src="https://shields.io" alt="LeetCode" /></a>
+  <a href="https://www.linkedin.com/in/abdul-azees-1111-s/"><img src="https://shields.io" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com](https://leetcode.com/u/abdulazees1111s/"><img src="https://shields.io" alt="LeetCode" /></a>
 </p>
 
 ---
