@@ -1,64 +1,142 @@
-# Hi there, I'm Abdul Azees S!
-### Software Engineer & AI Developer | Open Source Contributor
+# Hi, I'm Abdul Azees S 👋
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/abdul-azees-1111-s/"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com](https://leetcode.com/u/abdulazees1111s/"><img src="https://shields.io" alt="LeetCode" /></a>
-</p>
+### AI Engineer | Software Engineer | Full-Stack Developer
 
----
+I build AI-powered applications, intelligent agents, RAG systems, and scalable full-stack products.
 
-## About Me
-- Education: B.E. in Electronics and Communication Engineering (2026 Batch)
-- Core Focus: Full-Stack Web Development, Asynchronous AI Agents, and RAG Pipelines
-- Open Source: Proud Contributor to **Sugar Labs** via GSoC framework, optimizing digital accessibility infrastructure with over 7,000+ lines of code merged.
-- Looking For: Remote Software Development Engineer (SDE) and AI Engineer opportunities.
+I'm an Electronics and Communication Engineering graduate (2026 batch) interested in building practical software solutions and contributing to open-source communities.
+
+- 🔭 Working on AI applications, autonomous agents, and full-stack products.
+- 🤖 Exploring LLMs, RAG pipelines, vector databases, and AI automation.
+- 🌱 Contributing to open-source projects and improving my engineering skills.
+- 💻 Interested in AI Engineering, Backend Development, and Full-Stack Engineering.
+- 🤝 Open to open-source collaboration, freelance projects, and global opportunities.
 
 ---
 
-## Technical Skill Set
+## 🚀 Open Source Contributions
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, JavaScript (ES6+), C, C++ |
-| **Frontend & Backend** | React.js, Node.js, Express.js, FastAPI, REST APIs |
-| **Databases & Tools** | MongoDB, SQL, MySQL, SQLite, Postman, Git, GitHub, Docker |
-| **AI / ML Workflows** | LLM APIs, RAG Frameworks, FAISS Vector DB, AI Agents, n8n, Make Automation |
+**Sugar Labs — Music Blocks**
 
----
+- Contributed to the Music Blocks open-source ecosystem.
+- 7,000+ lines of code merged, as reflected in my contribution record.
+- Focused on improving and maintaining open-source software.
 
-## Featured Engineering Projects
+Repository: https://github.com/sugarlabs/musicblocks
 
-### [RAG-Based AI Knowledge Assistant](https://github.com)
-- Built a localized semantic retrieval system utilizing Python, FastAPI, and FAISS Vector Search.
-- Engineered high-accuracy document parsing logic to contextualize LLM generation flows seamlessly.
+**Meshery — Layer5**
 
-### [Chatbot Flow Builder](https://github.com/abdulazees1111s/chatbot-flow-builder)
-- Architected a node-based interactive backend routing engine inside a React and Node.js workflow module.
-- Implemented robust conversation state retention protocols allowing multi-branch decision processing.
+- Engaging with the Meshery open-source community.
+- Participating in the Layer5 mentorship program.
+- Exploring cloud-native infrastructure and collaborative development.
 
-### [Real-Time Collaborative Canvas](https://github.com)
-- Designed an event-driven multi-user board layout synchronized concurrently using Node.js and Socket.io.
-- Optimized packet frequency constraints using localized differential coordinate mapping grids.
+Project: https://github.com/meshery/meshery
 
 ---
 
-## My GitHub & Coding Metrics
+## 🛠️ Technical Skills
 
-<p align="center">
-  <img src="https://vercel.app" alt="Abdul's GitHub Stats" width="48%" />
-  <img src="https://herokuapp.com" alt="Abdul's Coding Streak" width="48%" />
-</p>
+**Programming Languages**
+- Python, JavaScript (ES6+), C, C++
 
-<p align="center">
-  <img src="https://vercel.app" alt="Top Languages" width="60%" />
-</p>
+**Frontend Development**
+- React.js, HTML5, CSS3
+
+**Backend Development**
+- Node.js, Express.js, FastAPI, REST APIs
+
+**Databases**
+- MongoDB, MySQL, SQL, SQLite
+
+**AI / Machine Learning**
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- FAISS and Vector Databases
+- AI Agents
+- LLM API Integration
+
+**Developer Tools & Automation**
+- Git, GitHub, Docker, Postman
+- n8n, Make
+- VS Code, Linux
 
 ---
 
-## Coding Milestones
-- Solved 200+ LeetCode problems with an optimized algorithmic focus.
-- Successfully cleared the HackerRank Software Engineer Certification Framework.
-- Earned the LeetCode 100 Days Badge for structural execution consistency.
+## 💡 Featured Projects
 
-How to reach me: Drop an email at abdulazees1111s@gmail.com
+### 1. RAG-Based AI Knowledge Assistant
+Python | FastAPI | FAISS | LLMs
+
+- Built a semantic document retrieval system.
+- Implemented vector-based search for contextual information retrieval.
+- Integrated retrieval workflows with LLM generation.
+
+Repository: https://github.com/abdulazees1111s/RAG-Based-AI-System
+
+### 2. Chatbot Flow Builder
+React.js | Node.js | JavaScript
+
+- Developed a node-based chatbot workflow builder.
+- Implemented multi-branch conversation flows.
+- Designed conversation state management.
+
+Repository: https://github.com/abdulazees1111s/chatbot-flow-builder
+
+### 3. Real-Time Collaborative Canvas
+JavaScript | Node.js | Socket.io
+
+- Developed a collaborative drawing environment.
+- Implemented real-time synchronization between multiple users.
+- Explored event-driven communication.
+
+Repository: https://github.com/abdulazees1111s/collaborative-canvas
+
+### 4. LLM Reliability Evaluator
+Python | LLMs
+
+- Exploring evaluation of LLM response reliability and quality.
+
+Repository: https://github.com/abdulazees1111s/LLM-Reliability-Evaluator
+
+### 5. LLM Summary CLI
+JavaScript | LLM APIs
+
+- Developer-focused command-line tool for structured LLM summaries.
+
+Repository: https://github.com/abdulazees1111s/llm-summary-cli
+
+---
+
+## 📊 Coding & Engineering
+
+- Solved 200+ problems on LeetCode.
+- Earned the LeetCode 100 Days Badge.
+- Cleared the HackerRank Software Engineer Certification Test.
+- Active open-source contributor.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering — Electronics and Communication Engineering**
+
+2026 Batch
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/abdulazees1111s
+- LinkedIn: https://www.linkedin.com/in/abdul-azees-1111-s/
+- LeetCode: https://leetcode.com/u/abdulazees1111s/
+- Google Developer Profile: https://g.dev/abdulazeess
+- Email: abdulazees1111s@gmail.com
+
+---
+
+### 💬 Let's Build Something Together!
+
+I'm open to software engineering opportunities, AI projects, freelance collaborations, and open-source contributions worldwide.
+
+**Building. Learning. Contributing.**
