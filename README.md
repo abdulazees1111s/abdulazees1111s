@@ -32,6 +32,18 @@ Repository: https://github.com/sugarlabs/musicblocks
 
 Project: https://github.com/meshery/meshery
 
+## 🏅 Meshery Achievements
+
+<p align="left">
+  <a href="https://cloud.layer5.io/user/ebc0059d-dd20-4a9c-b5e8-1d3994a7f360?tab=badges&badge=first-design">
+    <img
+      width="175"
+      src="https://badges.layer5.io/assets/badges/first-design/first-design.png"
+      alt="Meshery First Design Badge"
+    />
+  </a>
+</p>
+
 ---
 
 ## 🛠️ Technical Skills
